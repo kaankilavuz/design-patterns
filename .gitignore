@@ -33,6 +33,16 @@ appsettings.json
 # Visual Studio Code
 .vscode/
 
+# Visual Studio .vs folder
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
