@@ -1,0 +1,7 @@
+﻿--TR--
+Facade, karmaşık bir sisteme basit bir arayüz sağlamak için kullanılır.
+.NET'te Cephe modeli, mevcut sisteme basitleştirilmiş bir arabirim sağlayan ayrı bir sınıf kullanılarak uygulanır.
+
+--EN--
+The Facade pattern is used to provide a simple interface to a complex system.
+In .NET, the Facade pattern is implemented using a separate class that provides a simplified interface to the existing system.

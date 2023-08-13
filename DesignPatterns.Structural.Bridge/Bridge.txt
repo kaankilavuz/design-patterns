@@ -1,0 +1,7 @@
+﻿--TR--
+Köprü modeli, bir soyutlamayı uygulamasından ayırmak için kullanılır ve bağımsız olarak değişmelerine izin verir.
+Farklı uygulamalarla ilgili sınıflardan oluşan bir aile oluşturmanın bir yolunu sağlar.
+
+--EN--
+The Bridge pattern is used to decouple an abstraction from its implementation, allowing them to vary independently.
+It provides a way to create a family of related classes with different implementations.

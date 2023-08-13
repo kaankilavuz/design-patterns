@@ -1,0 +1,8 @@
+﻿--TR--
+Nesne oluşturmayı ve bu oluşturma sürecini soyutlamayı amaçlar.
+Bu desen, nesne oluşturmanın istemci kodundan soyutlanmasını sağlayarak kodun daha esnek, bakımı kolay ve genişletilebilir olmasına yardımcı olur.
+Nesne oluşum işinin fabrikaya bırakılmasını amaçlar.
+
+--EN--
+It aims to create objects and abstract this creation process.
+This pattern allows object creation to be abstracted from client code, helping to make code more flexible, maintainable, and extensible.

@@ -1,0 +1,5 @@
+﻿--TR--
+Singleton modeli, bir sınıfın yalnızca bir örneğe sahip olmasını sağlamak için kullanılır ve bu örneğe küresel bir erişim noktası sağlar.
+
+--EN--
+The Singleton pattern is used to ensure that a class has only one instance, and it provides a global point of access to that instance

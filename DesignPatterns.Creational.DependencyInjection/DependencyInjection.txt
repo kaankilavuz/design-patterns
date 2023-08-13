@@ -1,0 +1,5 @@
+﻿--TR--
+Dependency Injection modeli, nasıl inşa edildiklerinin ayrıntılarını bilmek zorunda kalmadan nesneleri yaratmanın bir yolunu sağlayan yaratıcı bir modeldir.
+
+--EN--
+The Dependency Injection pattern is a creational pattern that provides a way to create objects without having to know the details of how they are constructed.

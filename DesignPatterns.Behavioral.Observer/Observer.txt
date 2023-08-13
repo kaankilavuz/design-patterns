@@ -1,0 +1,7 @@
+﻿--TR-- 
+Observer Pattern, özne adı verilen bir nesnenin durumu değiştiğinde bir gözlemci listesine bildirimde bulunmasına izin veren davranışsal bir tasarım modelidir.
+Gözlemciler daha sonra otomatik olarak bilgilendirilir ve güncellenir
+
+--EN--
+The Observer Pattern is a behavioral design pattern that allows an object, called the subject, to notify a list of observers when its state changes.
+The observers are then automatically notified and updated

@@ -1,0 +1,7 @@
+﻿--TR--
+Bağdaştırıcı deseni, bir sınıfın arabirimini, istemcilerin beklediği başka bir arabirime dönüştürmek için kullanılır.
+.NET'te Bağdaştırıcı modeli, iki uyumsuz arabirim arasında köprü görevi gören ayrı bir sınıf kullanılarak uygulanır.
+
+--EN--
+The Adapter pattern is used to convert the interface of a class into another interface that clients expect.
+In .NET, the Adapter pattern is implemented using a separate class that acts as a bridge between two incompatible interfaces.

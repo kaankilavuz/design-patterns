@@ -1,0 +1,7 @@
+﻿--TR--
+Oluşturucu deseni, karmaşık bir nesnenin yapısını temsilinden ayırmak için kullanılır.
+.NET'te, Oluşturucu modeli, nesneyi adım adım oluşturan ayrı bir sınıf veya yöntem kullanılarak uygulanır.
+
+--EN--
+The Builder pattern is used to separate the construction of a complex object from its representation.
+In .NET, the Builder pattern is implemented using a separate class or method that constructs the object step by step.

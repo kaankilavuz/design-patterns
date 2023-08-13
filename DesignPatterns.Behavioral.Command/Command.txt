@@ -1,0 +1,5 @@
+﻿--TR--
+Command Pattern, bir isteği bir nesne olarak içine alan, böylece farklı isteklere, kuyruklara ve günlük isteklerine sahip istemcilerin parametreleştirilmesine izin veren ve geri alınamaz işlemleri destekleyen davranışsal bir tasarım modelidir.
+
+--EN--
+The Command Pattern is a behavioral design pattern that encapsulates a request as an object, thereby allowing for the parameterization of clients with different requests, queues, and log requests, and supports undoable operations.

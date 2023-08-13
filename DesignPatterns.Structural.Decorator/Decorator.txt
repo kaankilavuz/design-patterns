@@ -1,0 +1,7 @@
+﻿--TR--
+Dekoratör modeli, bir nesneye dinamik olarak işlevsellik eklemek için kullanılır.
+.NET'te, Dekoratör modeli, orijinal nesneyi saran ve ek işlevsellik sağlayan ayrı bir sınıf kullanılarak uygulanır.
+
+--EN--
+The Decorator pattern is used to add functionality to an object dynamically.
+In .NET, the Decorator pattern is implemented using a separate class that wraps the original object and provides additional functionality.

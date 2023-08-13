@@ -1,0 +1,5 @@
+﻿--TR--
+Strategy Pattern, bir istemcinin çalışma zamanında bir algoritma ailesinden seçim yapmasına izin veren davranışsal bir tasarım modelidir.
+
+--EN--
+The Strategy Pattern is a behavioral design pattern that allows a client to choose from a family of algorithms at runtime.
