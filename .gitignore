@@ -20,9 +20,6 @@
 *.suo
 *.user
 
-# .NET Sln files
-*.sln
-
 # .NET artifacts
 **/bin/
 **/obj/
