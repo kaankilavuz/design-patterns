@@ -1,6 +1,7 @@
 ﻿ShoppingCart cart = new ShoppingCart();
 cart.AddItem("Book");
 cart.AddItem("Pen");
+cart.AddItem("Laptop");
 
 cart.SetPaymentStrategy(new CreditCardPayment("1234-5678-9876-5432", "John Doe"));
 cart.Checkout();
